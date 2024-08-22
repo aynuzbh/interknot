@@ -8,7 +8,7 @@
     />
     <a
       class="link"
-      href="https://github.com/blacktunes/interknot"
+      href="https://sw.aynu.asia/"
       target="_blank"
       title="GitHub"
     >
@@ -31,7 +31,7 @@
       </svg>
       <div class="text">
         <span class="default-text">EWW.INTERKNOT.INK</span>
-        <span class="hover-text ellipsis">https://github.com/blacktunes/interknot</span>
+        <span class="hover-text ellipsis">https://sw.aynu.asia/</span>
       </div>
     </a>
     <div class="menu">
